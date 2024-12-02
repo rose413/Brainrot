@@ -33,12 +33,10 @@ The Chrome extension was developed using a combination of **HTML**, **CSS**, and
 - **HTML**
 - **JavaScript**
 
-## How to Install
-1. Clone or download the repository to your local machine.
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer Mode**.
-4. Click on **Load unpacked** and select the directory containing the extension files.
-5. The extension should now appear in your browser's toolbar.
+## Video
+[Watch the YouTube video]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/UMRyjq-4f0A?si=dOxbGhWwuX7afXin&t=72))
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
