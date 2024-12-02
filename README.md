@@ -34,8 +34,7 @@ The Chrome extension was developed using a combination of **HTML**, **CSS**, and
 - **JavaScript**
 
 ## Video
-[Watch the YouTube video]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/UMRyjq-4f0A?si=dOxbGhWwuX7afXin&t=72))
-
+[![Watch the video](https://img.youtube.com/vi/UMRyjq-4f0A/0.jpg)](https://youtu.be/UMRyjq-4f0A?si=dOxbGhWwuX7afXin&t=72)
 
 
 ## License
